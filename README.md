@@ -30,7 +30,4 @@ It uses **Google’s PaLM multimodal embeddings** and stores them in a **Weaviat
 - UMAP, matplotlib
 - Jupyter Notebook
 
----
-
-## 📁 Project Structure
 
