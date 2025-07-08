@@ -1,0 +1,1 @@
+# Multimodal-Search-with-Weaviate-PaLM-Embeddings
